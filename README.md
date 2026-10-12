@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Karl Josvah 👋</h1>
-<h3 align="center">Software Engineering Student | Game Developer | 3D & Digital Content Creator</h3>
+<h3 align="center">Software Engineer | Game Developer | 3D & Digital Content Creator</h3>
 
 <br>
 
