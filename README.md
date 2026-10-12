@@ -8,6 +8,10 @@
   <a href="https://github.com/KarlJosvah"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
+<div align="center">
+  <i>"O sages, witness my grand endeavor!"</i>
+</div>
+
 ## 💻 About Me
 
 * 💼 **Role:** Software Engineer with a strong foundation in **Object-Oriented Programming (OOP)** architecture, clean design patterns, and interactive systems.
