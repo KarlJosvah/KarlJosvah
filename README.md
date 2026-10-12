@@ -4,8 +4,10 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarlJosvah&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKarlJosvah&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true" alt="Profile Views"/>
   <a href="https://github.com/KarlJosvah"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://karljosvah.github.io/CV_Karl_frontend/"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat-square&logo=firefox" alt="Portfolio"></a>
+  <a href="[YOUR_CV_LINK_HERE](https://karljosvah.github.io/CV_Karl_frontend/)"><img src="https://img.shields.io/badge/CV-Download-green?style=flat-square&logo=adobeacrobatreader" alt="CV"></a>
 </p>
 
 <div align="center">
